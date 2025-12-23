@@ -4,7 +4,7 @@
 NoteHub is a web app for **storing, creating, deleting, and searching notes** with **pagination** and **debounced search**. Notes are stored on a ready-to-use backend, and all server state is managed with **TanStack Query**.
 
 ## 🔗 Links
-- Repository: https://github.com/<your-username>/05-notehub
+- Repository: https://github.com/Vitalism0/05-notehub
 - Live (Vercel): https://<your-vercel-link>
 
 ## ⚙️ Tech Stack
