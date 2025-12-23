@@ -5,7 +5,7 @@ NoteHub is a web app for **storing, creating, deleting, and searching notes** wi
 
 ## 🔗 Links
 - Repository: https://github.com/Vitalism0/05-notehub
-- Live (Vercel): https://<your-vercel-link>
+- Live (Vercel): https://05-notehub-ochre-six.vercel.app/
 
 ## ⚙️ Tech Stack
 - **React + TypeScript**
